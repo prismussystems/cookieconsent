@@ -28,8 +28,8 @@
       "plugin" : {
         "internalName" : "BR.COM.PRISMUSONE",
         "type" : "dynamic action",
-        "demo" : "#",
-        "previewImage" : "https://github.com/prismussystems/cookieconsent/blob/111d92056daf469898dc0d3a5019e9f0bc4301cd/Screenshot_1.jpg"
+        "demo" : "https://raw.githubusercontent.com/prismussystems/cookieconsent/main/demo.gif",
+        "previewImage" : "https://raw.githubusercontent.com/prismussystems/cookieconsent/main/Screenshot_1.jpg"
       }
     }
   }
