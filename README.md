@@ -5,4 +5,4 @@ Implemente rapidamente com low-code um aviso de cookies e politica de privacidad
 
 Desenvolvido à partir da biblioteca https://github.com/osano/cookieconsent
 
-Compatível com versões do Apex a partir da 20.2 e banco de dados 11g.
+Compatível com versões do Apex a partir da 20.1 e banco de dados 11g.
