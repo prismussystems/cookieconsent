@@ -23,11 +23,11 @@ wwv_flow_api.import_begin (
 end;
 /
  
-prompt APPLICATION 105 - Acompanhamento de Projetos
+prompt APPLICATION 105 - Aviso de Cookies
 --
 -- Application Export:
 --   Application:     105
---   Name:            Acompanhamento de Projetos
+--   Name:            Aviso de Cookies
 --   Date and Time:   13:59 Friday July 1, 2022
 --   Exported By:     LUIZ.AGUIAR
 --   Flashback:       0
@@ -50,7 +50,7 @@ wwv_flow_api.create_plugin(
  p_id=>wwv_flow_api.id(79397834160784472)
 ,p_plugin_type=>'DYNAMIC ACTION'
 ,p_name=>'APXCOOKIECONSENT'
-,p_display_name=>'Delphos Cookie Consent v1'
+,p_display_name=>'CookieConsent v1'
 ,p_category=>'INIT'
 ,p_supported_ui_types=>'DESKTOP:JQM_SMARTPHONE'
 ,p_javascript_file_urls=>wwv_flow_string.join(wwv_flow_t_varchar2(
