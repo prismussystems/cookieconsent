@@ -3,7 +3,7 @@
   "version" : "1.0",
   "description" : "It´s useful to display legal notice for cookies and privacy terms to application end users.",
   "keywords" : ["cookies", "gdpr", "lgpd", "privacy"],
-  "homepage" : "https://github.com/Dani3lSun/apex-plugin-guidedtour",
+  "homepage" : "https://github.com/prismussystems/cookieconsent/",
   "bugs" : {
     "url" : "https://github.com/prismussystems/cookieconsent/issues",
     "email" : "luizsabenca@gmail.com"
@@ -15,18 +15,18 @@
     "email" : "luizsabenca@gmail.com",
     "url" : "https://www.prismusone.com.br",
     "twitter" : "LuizSabenca",
-    "donationUrl" : "#"
+    "donationUrl" : ""
   },
   "repository" : {
     "type" : "git",
     "url" : "https://github.com/prismussystems/cookieconsent.git"
   },
   "oracle" : {
-    "versions" : ["^11.2.0.1"],
+    "versions" : ["11.x","12.x","18.x","19.x","21.x"],
     "apex" : {
-      "versions" : ["^20.1.0"],
+      "versions" : ["20.1.0","20.2.0","21.1.0","21.2.0","22.1.0","22.2.0"],
       "plugin" : {
-        "internalName" : "BR.COM.PRISMUSONE",
+        "internalName" : "BR.COM.PRISMUSONE.COOKIECONSENT",
         "type" : "dynamic action",
         "demo" : "https://raw.githubusercontent.com/prismussystems/cookieconsent/main/demo.gif",
         "previewImage" : "https://raw.githubusercontent.com/prismussystems/cookieconsent/main/Screenshot_1.jpg"
