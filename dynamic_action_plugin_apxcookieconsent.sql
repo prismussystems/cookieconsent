@@ -192,7 +192,7 @@ wwv_flow_api.create_plugin(
 'Este plugin adiciona o aviso de cookies.',
 'Luiz Aguiar 01/07/2022.'))
 ,p_version_identifier=>'1.0'
-,p_about_url=>'https://www.delphos.com.br'
+,p_about_url=>'https://prismus.digital'
 ,p_files_version=>5
 );
 wwv_flow_api.create_plugin_attribute(
